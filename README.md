@@ -1,5 +1,9 @@
 # Solar Challenge Week 0
 
+## Requirements
+
+- Python 3.11 (recommended)
+
 ## Environment Setup
 
 1. Clone the repository
